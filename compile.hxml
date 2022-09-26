@@ -1,5 +1,5 @@
 -cp src
 -lib heaps
 -lib hlsdl
--hl hello.hl
+-hl bin/hello.hl
 -main EyesEyesCrazy
